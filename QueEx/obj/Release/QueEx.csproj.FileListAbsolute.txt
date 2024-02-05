@@ -1,0 +1,9 @@
+C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe.config
+C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.pdb
+C:\knu\spz\3\QueEx\QueEx\obj\Release\QueEx.ProjectInstaller.resources
+C:\knu\spz\3\QueEx\QueEx\obj\Release\QueEx.csproj.GenerateResource.cache
+C:\knu\spz\3\QueEx\QueEx\obj\Release\QueEx.csproj.CoreCompileInputs.cache
+C:\knu\spz\3\QueEx\QueEx\obj\Release\QueEx.exe
+C:\knu\spz\3\QueEx\QueEx\obj\Release\QueEx.pdb
+C:\knu\spz\3\QueEx\QueEx\obj\Release\QueEx.csproj.AssemblyReference.cache

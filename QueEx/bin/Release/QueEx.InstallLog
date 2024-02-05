@@ -1,0 +1,2016 @@
+﻿Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Creating EventLog source queservice in log Application...
+Rolling back assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Restoring event log to previous state for source queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Attempt to stop service queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Warning: The source queservice is not registered on the local machine.
+Service queservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Attempt to stop service queservice.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Warning: The source queservice is not registered on the local machine.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Attempt to stop service queservice.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Warning: The source queservice is not registered on the local machine.
+Service queservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Warning: The source queservice is not registered on the local machine.
+Service queservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Warning: The source queservice is not registered on the local machine.
+Service queservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Warning: The source queservice is not registered on the local machine.
+Service queservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Attempt to stop service queservice.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service queservice...
+Service queservice has been successfully installed.
+Creating EventLog source queservice in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Uninstalling assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Removing EventLog source queservice.
+Service queservice is being removed from the system...
+Service queservice was successfully removed from the system.
+Installing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
+Installing service VADYM...
+Service VADYM has been successfully installed.
+Creating EventLog source VADYM in log Application...
+Committing assembly 'C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.exe
+   logfile = C:\knu\spz\3\QueEx\QueEx\bin\Release\QueEx.InstallLog
